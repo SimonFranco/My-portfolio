@@ -1,3 +1,31 @@
-h1 {
+body {
+  background: url("https://www.zastavki.com/pictures/1680x1050/2015/Backgrounds_Line_of_computer_code__gray_background_099063_16.jpg")
+}
+h1{
+    color: darkgrey
     
+}
+h2{
+    color: darkgray
+}
+p{
+    color: white;
+}
+h3{
+    color: white;
+}
+li{
+    color: white
+}
+#colorwhite{
+    color: white;
+}
+h1,h2,h3{
+    text-align: center
+}
+#colorwhite:hover{
+    color: black;
+}
+.hover:hover{
+    color: black;
 }
